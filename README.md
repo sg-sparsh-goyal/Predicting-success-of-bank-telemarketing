@@ -50,9 +50,18 @@ The dataset is sourced from [Kaggle](https://www.kaggle.com/competitions/predict
 
 ![Screenshot 2025-01-12 143001](https://github.com/user-attachments/assets/a6ec9d1e-7ca6-4021-a563-d0f40878cec2)
 
+## 🏆 Three Best Models (based on F1-macro)
+
+1. **LightGBM**: 74.4%
+2. **XGBoost**: 74.3%
+3. **Random Forest**: 73.9%
+
 
 ![Screenshot 2025-01-12 143015](https://github.com/user-attachments/assets/fb2fcf4e-3f44-4f4a-87b1-922599b00433)
 
 
 ![Screenshot 2025-01-12 143031](https://github.com/user-attachments/assets/b161343c-02a5-45cd-9ea5-d1c395418a43)
+
+---
+
 
